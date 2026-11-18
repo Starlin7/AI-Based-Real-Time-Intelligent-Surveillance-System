@@ -1,0 +1,19 @@
+# requirements.txt - Real-Time Intelligent Surveillance System
+# Install:  pip install -r requirements.txt
+
+# CPU-only PyTorch (already installed: torch 2.11.0+cpu, torchvision 0.26.0+cpu)
+# If not installed, run:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+
+ultralytics>=8.1.0
+filterpy>=1.4.5
+scikit-image>=0.21.0
+lap>=0.4.0
+opencv-python>=4.9.0
+numpy>=1.24.0
+pyttsx3>=2.90
+pygame>=2.5.0
+pyyaml>=6.0
+python-dotenv>=1.0.0
