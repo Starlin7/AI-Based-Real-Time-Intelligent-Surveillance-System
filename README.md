@@ -191,6 +191,12 @@ When the system identifies conditions that meet configured threat thresholds, it
 
 Email notifications require valid SMTP configuration in the `.env` file.
 
+## 📸 Project Output
+
+The following screenshot demonstrates the system's real-time detection, tracking, and context-aware threat assessment capabilities.
+
+![Surveillance System Output](screenshots/surveillance_output.png)
+
 ## Future Enhancements
 
 - Improve detection accuracy with additional training data.
